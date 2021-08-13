@@ -1,16 +1,18 @@
+                        /* MENUBAR set up */
 Nav a{
     color: rgb(187, 14, 14);
     font-size: large;
     text-decoration: none;
-    padding: 0px 20px;
+    padding: 0px 30px;
     font-weight: bold;
-    margin-top: 10px;
-    
-    
+    margin-top: 10px;  
 }
+
 #menuButton{
     border-radius: 20px;
     width: 100px;
-    margin-top: 2px;
-    
+    margin-top: 2px; 
+}
+#awesomeFont{
+    margin-top: 17px;
 }
