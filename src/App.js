@@ -1,5 +1,6 @@
 import Header from './components/Header/Header';
 import Menubar from './components/Menubar/Menubar';
+import Speciality from './components/Speciality/Speciality';
 import './components/style.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
      <Menubar/>
      <Header/>
+     <Speciality/>
     </div>
   );
 }
