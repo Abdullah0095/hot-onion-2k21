@@ -32,11 +32,11 @@ Nav a{
 /* testimonial */
 .card-design{
     float: left;
-    
+    margin: 20px;
     width: 30%;
     
 }
 .card-design img{
-    width: 300px;
+    width: 350px;
     
 }
