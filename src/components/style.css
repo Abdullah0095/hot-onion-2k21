@@ -38,5 +38,10 @@ Nav a{
 }
 .card-design img{
     width: 350px;
-    
+    height: 350px;
+}
+/* FOOTER */
+
+.foot-design img{
+    height: 100px;
 }
