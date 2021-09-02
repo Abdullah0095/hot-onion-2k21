@@ -1,3 +1,4 @@
+import FoodDisplay from './components/FoodDisplay/FoodDisplay';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Menubar from './components/Menubar/Menubar';
@@ -9,6 +10,7 @@ function App() {
     <div>
      <Menubar/>
      <Header/>
+     <FoodDisplay/>
      <Speciality/>
      <Footer/>
     </div>
