@@ -45,3 +45,9 @@ Nav a{
 .foot-design img{
     height: 100px;
 }
+
+/* FOOD DISPLAY */
+.foodCartStyle{
+    float: left;
+    
+}
